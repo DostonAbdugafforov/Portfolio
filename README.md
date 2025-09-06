@@ -1,7 +1,7 @@
 <h1 align="center">Portfolio</h1>
 
 <p align="center">
-  <img src="me.jpg" alt="My Photo" width="200" style="border-radius: 50%;"/>
+  <img src="photo.jpg" alt="My Photo" width="200" style="border-radius: 50%;"/>
 </p>
 
 ---
@@ -14,9 +14,9 @@ Mening maqsadim – doimiy o‘rganish va zamonaviy loyihalarda ishtirok etish.
 ---
 
 ## 🚀 Projects
-- [StreetSport](https://github.com/username/streetsport) – Stadionlarni bron qilish tizimi  
-- [ERP System](https://github.com/username/erp-system) – Ombor boshqaruv tizimi  
-- [Portfolio Website](https://github.com/username/portfolio) – Shaxsiy portfolio loyiham  
+- [StreetSport](https://github.com/DostonAbdugafforov/streetsport) – Stadionlarni bron qilish tizimi  
+- [ERP System](https://github.com/DostonAbdugafforov/erp-system) – Ombor boshqaruv tizimi  
+- [Portfolio Website](https://github.com/DostonAbdugafforov/portfolio) – Shaxsiy portfolio loyiham  
 
 ---
 
