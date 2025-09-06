@@ -20,10 +20,10 @@
 ---
 
 ## 🚀 Projects
-- [E-commerce](https://api-donashop.noventer.uz/api/docs/) – Online Store Website (E-commerce)
-- [Warehouse](https://github.com/DostonAbdugafforov/warehouse.git) – Warehouse Management System
-- [StreetSport](https://github.com/DostonAbdugafforov/streetsport) – Stadium Booking System 
-- [Consulting](https://github.com/DostonAbdugafforov/Hayot-yo-li-EDU.git) – Consulting Firm Website 
+- Online Store Website (E-commerce) - https://api-donashop.noventer.uz/api/docs/
+- Warehouse Management System - https://github.com/DostonAbdugafforov/warehouse.git
+- Stadium Booking System - https://github.com/DostonAbdugafforov/streetsport
+- Consulting Firm Website - https://github.com/DostonAbdugafforov/Hayot-yo-li-EDU.git
 
 ---
 
