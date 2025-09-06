@@ -8,10 +8,10 @@
     <td>
       <h2>👋 About Me</h2>
       <p>
-        Men Doston Abdug'apporovman.  
-        Backend dasturchi sifatida tajribamni oshirib boryapman.  
-        Python, Django, DRF, Docker va boshqa texnologiyalar bilan ishlayman.  
-        Mening maqsadim – doimiy o‘rganish va zamonaviy loyihalarda ishtirok etish.  
+        My name is Doston Abdug'apporov.  
+        I am a backend developer, constantly improving my skills.  
+        I work with Python, Django, DRF, Docker, and other technologies.  
+        My goal is continuous learning and contributing to modern projects. 
       </p>
     </td>
   </tr>
@@ -27,6 +27,6 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: dostonabdugafforov909@gmail.com  
+- 📧 Email: abdugafforovdoston626@gmail.com 
 - 📱 Phone: +998 90 877 60 41  
-- 🌍 Location: Samarkand, Uzbekistan  
+- 🌍 Location: Tashkent, Uzbekistan  
