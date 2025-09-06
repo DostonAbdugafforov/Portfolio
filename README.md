@@ -20,9 +20,9 @@
 ---
 
 ## 🚀 Projects
-- [StreetSport](https://github.com/DostonAbdugafforov/streetsport) – Stadionlarni bron qilish tizimi  
-- [Consulting](https://github.com/DostonAbdugafforov/Hayot-yo-li-EDU.git) – Konsulting firma uchun web sayt 
-- [E-commerce](https://api-donashop.noventer.uz/api/docs/) – Online magazin web sayti 
+- [E-commerce](https://api-donashop.noventer.uz/api/docs/) – Online Store Website (E-commerce)
+- [StreetSport](https://github.com/DostonAbdugafforov/streetsport) – Stadium Booking System 
+- [Consulting](https://github.com/DostonAbdugafforov/Hayot-yo-li-EDU.git) – Consulting Firm Website 
 
 ---
 
