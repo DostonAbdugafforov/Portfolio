@@ -1,15 +1,21 @@
 <h1 align="center">Portfolio</h1>
 
-<p align="center">
-  <img src="photo.jpg" alt="My Photo" width="200" style="border-radius: 50%;"/>
-</p>
-
----
-
-## 👋 About Me
-Men Doston Abdug'apporovman.  
-Backend dasturchi sifatida tajribamni oshirib boryapman. Python, Django, DRF, Docker va boshqa texnologiyalar bilan ishlayman.  
-Mening maqsadim – doimiy o‘rganish va zamonaviy loyihalarda ishtirok etish.  
+<table>
+  <tr>
+    <td width="220">
+      <img src="photo.jpg" alt="My Photo" width="200" style="border-radius: 50%;"/>
+    </td>
+    <td>
+      <h2>👋 About Me</h2>
+      <p>
+        Men Doston Abdug'apporovman.  
+        Backend dasturchi sifatida tajribamni oshirib boryapman.  
+        Python, Django, DRF, Docker va boshqa texnologiyalar bilan ishlayman.  
+        Mening maqsadim – doimiy o‘rganish va zamonaviy loyihalarda ishtirok etish.  
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
