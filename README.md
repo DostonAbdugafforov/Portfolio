@@ -21,8 +21,8 @@
 
 ## 🚀 Projects
 - [StreetSport](https://github.com/DostonAbdugafforov/streetsport) – Stadionlarni bron qilish tizimi  
-- [ERP System](https://github.com/DostonAbdugafforov/erp-system) – Ombor boshqaruv tizimi  
-- [Portfolio Website](https://github.com/DostonAbdugafforov/portfolio) – Shaxsiy portfolio loyiham  
+- [Consulting](https://github.com/DostonAbdugafforov/Hayot-yo-li-EDU.git) – Konsulting firma uchun web sayt 
+- [E-commerce](https://api-donashop.noventer.uz/api/docs/) – Online magazin web sayti 
 
 ---
 
